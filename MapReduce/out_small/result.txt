@@ -1,0 +1,18 @@
+CNNV|Cần Thơ|Zed	40
+CNNV|Hà Nội|An	370
+CNNV|Hà Nội|Bình	330
+CNNV|Hải Phòng|Chi	90
+CNNV|Hải Phòng|Dũng	500
+CNNV|Đà Nẵng|An	50
+CNNV|Đà Nẵng|Bình	60
+CNNV|Đà Nẵng|Chi	400
+CN|Cần Thơ	40
+CN|Hà Nội	700
+CN|Hải Phòng	590
+CN|Đà Nẵng	510
+NV|An	420
+NV|Bình	390
+NV|Chi	490
+NV|Dũng	500
+NV|Zed	40
+TONG|ALL	1840

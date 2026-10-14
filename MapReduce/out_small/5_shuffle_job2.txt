@@ -1,0 +1,48 @@
+CNNV|Cần Thơ|Zed	40
+CNNV|Hà Nội|An	100
+CNNV|Hà Nội|An	200
+CNNV|Hà Nội|An	70
+CNNV|Hà Nội|Bình	250
+CNNV|Hà Nội|Bình	80
+CNNV|Hải Phòng|Chi	90
+CNNV|Hải Phòng|Dũng	500
+CNNV|Đà Nẵng|An	50
+CNNV|Đà Nẵng|Bình	60
+CNNV|Đà Nẵng|Chi	100
+CNNV|Đà Nẵng|Chi	300
+CN|Cần Thơ	40
+CN|Hà Nội	100
+CN|Hà Nội	200
+CN|Hà Nội	250
+CN|Hà Nội	70
+CN|Hà Nội	80
+CN|Hải Phòng	500
+CN|Hải Phòng	90
+CN|Đà Nẵng	100
+CN|Đà Nẵng	300
+CN|Đà Nẵng	50
+CN|Đà Nẵng	60
+NV|An	100
+NV|An	200
+NV|An	50
+NV|An	70
+NV|Bình	250
+NV|Bình	60
+NV|Bình	80
+NV|Chi	100
+NV|Chi	300
+NV|Chi	90
+NV|Dũng	500
+NV|Zed	40
+TONG|ALL	100
+TONG|ALL	100
+TONG|ALL	200
+TONG|ALL	250
+TONG|ALL	300
+TONG|ALL	40
+TONG|ALL	50
+TONG|ALL	500
+TONG|ALL	60
+TONG|ALL	70
+TONG|ALL	80
+TONG|ALL	90
